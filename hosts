@@ -1,6 +1,6 @@
 [demo]
-172.31.82.66
-172.31.93.87 
+server1 ansible_host=172.31.82.66
+server2 ansible_host=172.31.93.87 
 
 [all:vars]
 ansible_python_interpreter=/usr/bin/python3
